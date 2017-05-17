@@ -1,3 +1,7 @@
+---
+title: U.S. Federal Spending: The Big Picture
+---
+
 # U.S. Federal Spending: The Big Picture
 
 On May 9, 2017, the U.S. Department of the Treasury released the first batch of spending data that U.S. agencies submitted under the DATA Act, a 2014 law that requires:
